@@ -6,7 +6,8 @@ called with no arguments.
 ## Golf Challenge
 
 There is an open challenge to implement this program in as few bytes as possible;
-ZirconiumX holds first place at the moment with 
+Aelita currently leads with [180 bytes of Perl.](https://gist.github.com/AelitaStyles/929189fbce048cb7aa8bb02d5b6982e1)
+ZirconiumX holds second place at the moment with 
 [their Python implementation.](https://gist.github.com/ZirconiumX/283a6cffba7b7e10ef62157563d11277)
 
 Here's how the program should behave:
